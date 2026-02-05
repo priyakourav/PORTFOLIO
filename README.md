@@ -13,7 +13,7 @@ A modern, responsive developer portfolio built using **HTML and CSS**.
 - CSS3
 
 ##  Live Demo
-https://priyakourav.github.io/developer-portfolio/
+https://kourav0555.github.io/PORTFOLIO/
 
 ##  Purpose
 This project showcases my frontend skills and serves as my personal portfolio.
