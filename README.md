@@ -1,7 +1,6 @@
 # PORTFOLIO
 
 A modern, responsive developer portfolio built using **HTML and CSS**.
-
 ## Features
 - Clean dark theme UI
 - Responsive layout
@@ -15,9 +14,7 @@ A modern, responsive developer portfolio built using **HTML and CSS**.
 ##  Live Demo
 https://kourav0555.github.io/PORTFOLIO/
 
-
 ##  Preview
-
 <p align="center">
   <img src="assets/preview1.png" width="45%" />
   <img src="assets/preview2.png" width="45%" />
