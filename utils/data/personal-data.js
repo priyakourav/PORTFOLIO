@@ -1,17 +1,12 @@
 export const personalData = {
-  name: "ABU SAID",
+  name: "Priya Kourav",
   profile: '/profile.png',
-  designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  designation: 'Software Developer | AI & ML Student',
+  description: "I'm a B.Tech student specializing in Artificial Intelligence & Machine Learning with a strong passion for software development. I build modern web applications and explore how AI can be integrated into practical, real-world solutions. Currently, I am strengthening my expertise in full-stack development, data structures & algorithms, and AI-powered applications through hands-on projects.My goal is to build scalable software, leverage AI to solve real-world challenges, and continuously grow as a software developer through practical experience and lifelong learning.",
+  email: 'priyakourav55@gmail.com',
+  address: 'Bhopal, Madhya Pradesh, India',
+  github: 'https://github.com/priyakourav',
+  linkedIn: 'https://www.linkedin.com/in/priyakourav',
+  leetcode: "https://leetcode.com/priyakourav/",
+  resume: 'https://drive.google.com/file/d/1QWs4Rir_BzFetfoF13uvHf0tijlVfmjU/view?usp=drive_link'
 }
