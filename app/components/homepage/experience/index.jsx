@@ -65,7 +65,6 @@ function Experience() {
                       {experience.duration}
                     </p>
                   </div>
-
                   <div className="flex items-start gap-6 px-3 py-5">
                    <div className="text-violet-500 transition-all duration-300 group-hover:scale-125 group-hover:rotate-6">
                       <BsPersonWorkspace size={36} />
@@ -75,11 +74,9 @@ function Experience() {
                       <h3 className="text-lg font-semibold uppercase text-white">
                         {experience.title}
                       </h3>
-
                       <p className="text-sm text-gray-300 mb-3">
                         {experience.company}
                       </p>
-
                      {/* Description */}
 <div className="mt-4">
   <ul className="list-disc ml-5 space-y-2 text-sm text-gray-300 leading-6">
