@@ -13,8 +13,8 @@ function Navbar() {
           <Image
             src="/logo.png"
             alt="PK Logo"
-            width={70}
-            height={70}
+            width={60}
+            height={60}
             priority
             className="hover:scale-110 transition-transform duration-300"
           />
