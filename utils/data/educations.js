@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Bachelor of Technology (B.Tech) in Artificial Intelligence & Machine Learning",
+    duration: "2023 - 2027",
+    institution: "Sagar Institute of Research & Technology (SIRT), Bhopal",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Higher Secondary Education (Class XII)",
+    duration: "2022 - 2023",
+    institution: "Vivek Jagrati Higher Secondary School (MP Board) • 72.2%",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Secondary Education (Class X)",
+    duration: "2020 - 2021",
+    institution: "Vivek Jagrati Higher Secondary School (MP Board) • 91.8%",
   }
 ]
