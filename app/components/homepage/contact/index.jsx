@@ -5,6 +5,7 @@ import { BiLogoLinkedin } from "react-icons/bi";
 import { CiLocationOn } from "react-icons/ci";
 import { MdAlternateEmail } from "react-icons/md";
 import ContactForm from './contact-form';
+import { IoLogoGithub } from "react-icons/io";
 
 function ContactSection() {
   return (
