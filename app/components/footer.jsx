@@ -8,8 +8,8 @@ function Footer() {
         </div>
 
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
-          <p className="text-sm text-center md:text-left">
-            © {new Date().getFullYear()} Priya Kourav. All rights reserved.
+         <p className="text-sm text-center md:text-left text-gray-400">
+              © {new Date().getFullYear()} Priya Kourav. All rights reserved.
           </p>
         </div>
       </div>
