@@ -12,6 +12,14 @@
 
 A personal developer portfolio showcasing my software development journey, projects, technical skills, certifications, and continuous learning in Full-Stack Development and Generative AI. Built with Next.js, React, and Tailwind CSS with a focus on performance, responsive design, and clean user experience.
 
+## 📊 Portfolio Highlights
+
+- 🚀 Built 4 Software Projects
+- 🏆 Earned 8 Professional Certifications
+- 💻 Skilled in 15+ Technologies & Development Tools
+- 🧩 Solved 230+ LeetCode Problems
+- 🤖 Exploring MERN Stack, System Design & AI Agents
+
 ## 🌐 Live Portfolio
 
 **Portfolio:** https://YOUR-PORTFOLIO-LINK.vercel.app
