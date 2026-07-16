@@ -8,8 +8,7 @@
   <img src="https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js" alt="Next.js"/>
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/>
-</p>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status"/>
 
 A modern, responsive developer portfolio built with **Next.js**, **React**, and **Tailwind CSS** to showcase my projects, technical skills, certifications, and continuous learning journey in Software Development and Generative AI.
 
