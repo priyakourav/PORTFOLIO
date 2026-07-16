@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status"/>
 
-A modern, responsive developer portfolio built with **Next.js**, **React**, and **Tailwind CSS** to showcase my projects, technical skills, certifications, and continuous learning journey in Software Development and Generative AI.
+A personal developer portfolio showcasing my software development journey, projects, technical skills, certifications, and continuous learning in Full-Stack Development and Generative AI. Built with Next.js, React, and Tailwind CSS with a focus on performance, responsive design, and clean user experience.
 
 ## 🌐 Live Portfolio
 
