@@ -34,7 +34,12 @@ function Certifications() {
         </div>
       </div>
 
-      <div className="py-8">
+      <p className="text-center text-sm md:text-base text-[#b6bdd8] max-w-2xl mx-auto leading-7 px-4 mb-6">
+                 Certifications and workshops showcasing my continuous learning in software
+                 development, AI, and emerging technologies.
+        </p>
+
+     <div className="pt-4 pb-8">
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
 
@@ -45,14 +50,14 @@ function Certifications() {
               identifier={`cert-${cert.id}`}
             >
 
-              <div className="group relative h-full p-6 transition-all duration-300 hover:-translate-y-1">
+              <div className="group relative h-full p-6 transition-all duration-300 hover:-translate-y-1 z-10">
 
                 <Image
                   src="/blur-23.svg"
                   alt=""
                   width={1080}
                   height={200}
-                  className="absolute bottom-0 opacity-70"
+                 className="absolute bottom-0 opacity-70 pointer-events-none -z-10"
                 />
 
                 <div className="flex justify-between items-start">
