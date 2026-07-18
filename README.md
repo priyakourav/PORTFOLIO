@@ -1,14 +1,17 @@
 # Priya Kourav | Developer Portfolio
 
-<p align="center">
-  <img src="./public/readme-preview.png" width="100%" alt="Portfolio Preview">
+
+ <p align="center">
+  <img src="public/readme-preview.png" width="100%" alt="Portfolio Preview">
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js" alt="Next.js"/>
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status"/>
+  </p>
 
 A personal developer portfolio showcasing my software development journey, projects, technical skills, certifications, and continuous learning in Full-Stack Development and Generative AI. Built with Next.js, React, and Tailwind CSS with a focus on performance, responsive design, and clean user experience.
 
@@ -32,7 +35,7 @@ Hi, I'm **Priya Kourav**, a B.Tech student specializing in Artificial Intelligen
 
 I'm passionate about building modern web applications, solving programming problems, and exploring Full-Stack Development, Artificial Intelligence, and Generative AI.
 
-Currently I'm improving my skills in:
+Currently, I'm expanding my expertise in:
 
 - MERN Stack Development
 - Data Structures & Algorithms
@@ -47,6 +50,7 @@ Currently I'm improving my skills in:
 - Responsive design for all devices
 - Modern UI built with Tailwind CSS
 - Interactive animations
+- Mobile responsive navigation
 - Projects showcase
 - Certifications section
 - Experience timeline
@@ -66,6 +70,7 @@ Currently I'm improving my skills in:
 - HTML5
 - CSS3
 - Tailwind CSS
+- Chart.js
 
 ### Programming Languages
 
@@ -78,7 +83,6 @@ Currently I'm improving my skills in:
 - Git
 - GitHub
 - VS Code
-- Chart.js
 
 ---
 
@@ -185,19 +189,17 @@ npm run dev
 
 ---
 
-## 📫 Connect With Me
-
-**LinkedIn**
+### LinkedIn
 
 https://www.linkedin.com/in/priyakourav
 
-**GitHub**
+### GitHub
 
 https://github.com/priyakourav
 
-**Email**
+### Email
 
-priyakourav55@gmail.com
+mailto:priyakourav55@gmail.com
 
 ---
 
