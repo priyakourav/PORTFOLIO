@@ -1,8 +1,10 @@
 # Priya Kourav | Developer Portfolio
 
-<p align="center">
-  <img src="./public/readme-preview.png" width="100%" alt="Portfolio Preview">
+
+ <p align="center">
+  <img src="public/readme-preview.png" width="100%" alt="Portfolio Preview">
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js" alt="Next.js"/>
