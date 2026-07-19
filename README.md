@@ -25,7 +25,7 @@ A personal developer portfolio showcasing my software development journey, proje
 
 ## 🌐 Live Portfolio
 
-**Portfolio:** https://YOUR-PORTFOLIO-LINK.vercel.app
+**Portfolio:** https://portfolio-qhhhc3tsm-priya-kourav.vercel.app/ 
 
 ---
 
